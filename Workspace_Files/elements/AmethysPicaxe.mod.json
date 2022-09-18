@@ -1,0 +1,34 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "amatist_pickaxe",
+    "customModelName": "Normal",
+    "name": "Amethyst Picaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 4,
+    "efficiency": 8.5,
+    "attackSpeed": 1.2000000000000002,
+    "enchantability": 12,
+    "damageVsEntity": 5.5,
+    "usageCount": 1796,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AmethystIngot"
+      },
+      {
+        "value": "CUSTOM:AmethysPicaxe"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

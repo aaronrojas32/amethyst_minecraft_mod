@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "espada_amatista:blocks/bottom",
+    "up": "espada_amatista:blocks/top",
+    "north": "espada_amatista:blocks/side_model2",
+    "east": "espada_amatista:blocks/side_model2",
+    "south": "espada_amatista:blocks/side_model2",
+    "west": "espada_amatista:blocks/side_model2",
+    "particle": "espada_amatista:blocks/bottom"
+  }
+}

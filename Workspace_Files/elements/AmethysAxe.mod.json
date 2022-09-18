@@ -1,0 +1,34 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "amatist_axe",
+    "customModelName": "Normal",
+    "name": "Amethyst Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 1,
+    "efficiency": 8.5,
+    "attackSpeed": 1.0,
+    "enchantability": 12,
+    "damageVsEntity": 9.5,
+    "usageCount": 1796,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AmethysAxe"
+      },
+      {
+        "value": "CUSTOM:AmethystIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

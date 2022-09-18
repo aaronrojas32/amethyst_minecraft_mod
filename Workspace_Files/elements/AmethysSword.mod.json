@@ -1,0 +1,34 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "amatist_sword",
+    "customModelName": "Normal",
+    "name": "Amethyst Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 0,
+    "efficiency": 8.5,
+    "attackSpeed": 1.6,
+    "enchantability": 12,
+    "damageVsEntity": 7.5,
+    "usageCount": 1796,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:AmethystIngot"
+      },
+      {
+        "value": "CUSTOM:AmethysSword"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

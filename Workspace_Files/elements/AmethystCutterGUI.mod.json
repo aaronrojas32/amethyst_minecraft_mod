@@ -1,0 +1,84 @@
+{
+  "_fv": 33,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "id": 0,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": true,
+          "name": "Slot #0",
+          "x": 174,
+          "y": 68
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 1,
+          "disableStackInteraction": false,
+          "dropItemsWhenNotBound": false,
+          "name": "Slot #1",
+          "x": 234,
+          "y": 68
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "text": "Amethyst Cutter",
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "name": "Amethyst Cutter",
+          "x": 174,
+          "y": 50
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "text": "Cut",
+          "onClick": {
+            "name": "AmethystCutterCrafts"
+          },
+          "width": 40,
+          "height": 20,
+          "name": "Cut",
+          "x": 193,
+          "y": 91
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "flecha.png",
+          "use1Xscale": false,
+          "name": "flecha.png",
+          "x": 206,
+          "y": 69
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PureAmethyst"
+      },
+      {
+        "value": "CUSTOM:PureAmethyst"
+      },
+      {
+        "value": "CUSTOM:PureAmethyst"
+      },
+      {
+        "value": "CUSTOM:PureAmethyst"
+      },
+      {
+        "value": "Items.COPPER_INGOT"
+      },
+      {
+        "value": "CUSTOM:PureAmethyst"
+      },
+      {
+        "value": "CUSTOM:PureAmethyst"
+      },
+      {
+        "value": "CUSTOM:PureAmethyst"
+      },
+      {
+        "value": "CUSTOM:PureAmethyst"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AmethystIngot"
+    },
+    "name": "amethys_ingot_craft",
+    "namespace": "mod"
+  }
+}

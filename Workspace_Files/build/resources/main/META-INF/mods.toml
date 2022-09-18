@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[40,)"
+license="Public Domain"
+
+[[mods]]
+modId="espada_amatista"
+version="1.1.0"
+displayName="Amethyts Tools"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="Aaron"
+
+[[dependencies.espada_amatista]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.18.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

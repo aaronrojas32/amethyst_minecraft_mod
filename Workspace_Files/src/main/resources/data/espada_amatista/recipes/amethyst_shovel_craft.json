@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_shovel"
+  },
+  "addition": {
+    "item": "espada_amatista:amethyst_ingot"
+  },
+  "result": {
+    "item": "espada_amatista:amethys_shovel"
+  }
+}

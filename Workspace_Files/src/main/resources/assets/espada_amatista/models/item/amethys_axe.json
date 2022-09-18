@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "espada_amatista:items/amatist_axe"
+  }
+}
