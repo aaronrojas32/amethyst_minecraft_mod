@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "espada_amatista:amethyst_ingot"
+  },
+  "addition": {
+    "item": "minecraft:diamond_leggings"
+  },
+  "result": {
+    "item": "espada_amatista:amethyst_armor_leggings"
+  }
+}

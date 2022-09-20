@@ -1,0 +1,23 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:AmethystIngot"
+    },
+    "smithingInputAdditionStack": {
+      "value": "Items.DIAMOND_HELMET"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:AmethystArmor.helmet"
+    },
+    "name": "armorhelmet",
+    "namespace": "mod"
+  }
+}

@@ -2,9 +2,13 @@
   "item.espada_amatista.amethys_axe": "Hacha de Amatista",
   "item.espada_amatista.amethys_sword": "Espada de Amatista",
   "item.espada_amatista.amethyst_ingot": "Lingote de Amatista",
+  "item.espada_amatista.amethyst_armor_helmet": "Amethyst Helmet",
   "item.espada_amatista.amethyst_hoe": "Azada de de Amatista",
-  "item.espada_amatista.amethys_picaxe": "Pico de Amatista",
   "block.espada_amatista.amethyst_cutter": "Cortador de Amatistas",
+  "item.espada_amatista.amethyst_armor_leggings": "Amethyst Leggings",
+  "item.espada_amatista.amethyst_armor_boots": "Amethyst Boots",
+  "item.espada_amatista.amethyst_armor_chestplate": "Amethyst Chestplate",
+  "item.espada_amatista.amethys_picaxe": "Pico de Amatista",
   "item.espada_amatista.amethys_shovel": "Pala de Amatista",
   "item.espada_amatista.pure_amethyst": "Amatista Pura"
 }

@@ -16,6 +16,7 @@ import net.minecraft.world.item.BlockItem;
 import net.mcreator.espadaamatista.item.PureAmethystItem;
 import net.mcreator.espadaamatista.item.AmethystIngotItem;
 import net.mcreator.espadaamatista.item.AmethystHoeItem;
+import net.mcreator.espadaamatista.item.AmethystArmorItem;
 import net.mcreator.espadaamatista.item.AmethysSwordItem;
 import net.mcreator.espadaamatista.item.AmethysShovelItem;
 import net.mcreator.espadaamatista.item.AmethysPicaxeItem;
@@ -32,6 +33,12 @@ public class EspadaAmatistaModItems {
 	public static final RegistryObject<Item> AMETHYS_SHOVEL = REGISTRY.register("amethys_shovel", () -> new AmethysShovelItem());
 	public static final RegistryObject<Item> AMETHYST_HOE = REGISTRY.register("amethyst_hoe", () -> new AmethystHoeItem());
 	public static final RegistryObject<Item> AMETHYST_CUTTER = block(EspadaAmatistaModBlocks.AMETHYST_CUTTER, CreativeModeTab.TAB_BUILDING_BLOCKS);
+	public static final RegistryObject<Item> AMETHYST_ARMOR_HELMET = REGISTRY.register("amethyst_armor_helmet", () -> new AmethystArmorItem.Helmet());
+	public static final RegistryObject<Item> AMETHYST_ARMOR_CHESTPLATE = REGISTRY.register("amethyst_armor_chestplate",
+			() -> new AmethystArmorItem.Chestplate());
+	public static final RegistryObject<Item> AMETHYST_ARMOR_LEGGINGS = REGISTRY.register("amethyst_armor_leggings",
+			() -> new AmethystArmorItem.Leggings());
+	public static final RegistryObject<Item> AMETHYST_ARMOR_BOOTS = REGISTRY.register("amethyst_armor_boots", () -> new AmethystArmorItem.Boots());
 
 	private static RegistryObject<Item> block(RegistryObject<Block> block, CreativeModeTab tab) {
 		return REGISTRY.register(block.getId().getPath(), () -> new BlockItem(block.get(), new Item.Properties().tab(tab)));

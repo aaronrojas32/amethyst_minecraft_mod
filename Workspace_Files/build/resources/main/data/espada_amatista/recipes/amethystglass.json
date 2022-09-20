@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "espada_amatista:pure_amethyst"
+    },
+    "1": {
+      "item": "espada_amatista:pure_amethyst"
+    },
+    "2": {
+      "item": "espada_amatista:pure_amethyst"
+    },
+    "3": {
+      "item": "espada_amatista:pure_amethyst"
+    },
+    "4": {
+      "item": "minecraft:glass"
+    },
+    "5": {
+      "item": "espada_amatista:pure_amethyst"
+    },
+    "6": {
+      "item": "espada_amatista:pure_amethyst"
+    },
+    "7": {
+      "item": "espada_amatista:pure_amethyst"
+    },
+    "8": {
+      "item": "espada_amatista:pure_amethyst"
+    }
+  },
+  "result": {
+    "item": "minecraft:pink_stained_glass",
+    "count": 1
+  }
+}

@@ -1,0 +1,284 @@
+{
+  "mod_elements": [
+    {
+      "name": "AmethystIngot",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_ingot"
+    },
+    {
+      "name": "PureAmethyst",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pure_amethyst"
+    },
+    {
+      "name": "AmethysIngotCraft",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethys_ingot_craft"
+    },
+    {
+      "name": "AmethysSword",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethys_sword"
+    },
+    {
+      "name": "AmethysPicaxe",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethys_picaxe"
+    },
+    {
+      "name": "AmethysAxe",
+      "type": "tool",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethys_axe"
+    },
+    {
+      "name": "AmethysShovel",
+      "type": "tool",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethys_shovel"
+    },
+    {
+      "name": "AmethystHoe",
+      "type": "tool",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_hoe"
+    },
+    {
+      "name": "AmethystSwordCraft",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_sword_craft"
+    },
+    {
+      "name": "AmethystPicaxeCraft",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_picaxe_craft"
+    },
+    {
+      "name": "AmethystAxeCraft",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_axe_craft"
+    },
+    {
+      "name": "AmethystShovelCraft",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_shovel_craft"
+    },
+    {
+      "name": "AmethystHoeCraft",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_hoe_craft"
+    },
+    {
+      "name": "AmethystCutter",
+      "type": "block",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_cutter",
+      "path": "~/AmethystCutter"
+    },
+    {
+      "name": "AmethystCutterGUI",
+      "type": "gui",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_cutter_gui",
+      "path": "~/AmethystCutter"
+    },
+    {
+      "name": "AmethystCutterCrafts",
+      "type": "procedure",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_cutter_crafts",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      },
+      "path": "~/AmethystCutter"
+    },
+    {
+      "name": "AmethystCutterCraft",
+      "type": "recipe",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_cutter_craft",
+      "path": "~/AmethystCutter"
+    },
+    {
+      "name": "Amethystglass",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethystglass",
+      "path": "~/Recipes"
+    },
+    {
+      "name": "AmethystArmor",
+      "type": "armor",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_armor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      },
+      "path": "~/Armor"
+    },
+    {
+      "name": "AmethystArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_armor_helmet_recipe",
+      "path": "~/Armor"
+    },
+    {
+      "name": "AmethystArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_armor_body_recipe",
+      "path": "~/Armor"
+    },
+    {
+      "name": "AmethystArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_armor_leggings_recipe",
+      "path": "~/Armor"
+    },
+    {
+      "name": "AmethystArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_armor_boots_recipe",
+      "path": "~/Armor"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.espada_amatista.amethys_axe": "Amethyst Axe",
+      "item.espada_amatista.amethys_sword": "Amethyst Sword",
+      "item.espada_amatista.amethyst_ingot": "Amethist Ingot",
+      "item.espada_amatista.amethyst_armor_helmet": "Amethyst Helmet",
+      "item.espada_amatista.amethyst_hoe": "Amethyst Hoe",
+      "block.espada_amatista.amethyst_cutter": "Amethyst Cutter",
+      "item.espada_amatista.amethyst_armor_leggings": "Amethyst Leggings",
+      "item.espada_amatista.amethyst_armor_boots": "Amethyst Boots",
+      "item.espada_amatista.amethyst_armor_chestplate": "Amethyst Chestplate",
+      "item.espada_amatista.amethys_picaxe": "Amethyst Picaxe",
+      "item.espada_amatista.amethys_shovel": "Amethyst Shovel",
+      "item.espada_amatista.pure_amethyst": "Pure Amethist"
+    },
+    "es_es": {
+      "item.espada_amatista.amethys_axe": "Hacha de Amatista",
+      "item.espada_amatista.amethys_sword": "Espada de Amatista",
+      "item.espada_amatista.amethyst_ingot": "Lingote de Amatista",
+      "item.espada_amatista.amethyst_armor_helmet": "Amethyst Helmet",
+      "item.espada_amatista.amethyst_hoe": "Azada de de Amatista",
+      "block.espada_amatista.amethyst_cutter": "Cortador de Amatistas",
+      "item.espada_amatista.amethyst_armor_leggings": "Amethyst Leggings",
+      "item.espada_amatista.amethyst_armor_boots": "Amethyst Boots",
+      "item.espada_amatista.amethyst_armor_chestplate": "Amethyst Chestplate",
+      "item.espada_amatista.amethys_picaxe": "Pico de Amatista",
+      "item.espada_amatista.amethys_shovel": "Pala de Amatista",
+      "item.espada_amatista.pure_amethyst": "Amatista Pura"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": [
+      {
+        "name": "AmethystCutter",
+        "children": []
+      },
+      {
+        "name": "Blocks",
+        "children": []
+      },
+      {
+        "name": "Recipes",
+        "children": []
+      },
+      {
+        "name": "Armor",
+        "children": []
+      }
+    ]
+  },
+  "workspaceSettings": {
+    "modid": "espada_amatista",
+    "modName": "Amethyts Tools",
+    "version": "1.1.0",
+    "author": "Aaron",
+    "websiteURL": "https://mcreator.net",
+    "license": "Public Domain",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.18.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.mcreator.espadaamatista",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200234517
+}
