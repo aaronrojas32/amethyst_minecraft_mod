@@ -207,6 +207,15 @@
       "locked_code": false,
       "registry_name": "armor_boots",
       "path": "~/Armor"
+    },
+    {
+      "name": "Pureamethystdye",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pureamethystdye",
+      "path": "~/Recipes"
     }
   ],
   "variable_elements": [],
