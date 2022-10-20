@@ -14,13 +14,15 @@ The mod will be published soon in the page of Mcreator and on the Forge page
   <li>Pure amethyst (You can get this item using the Amethyst Cutter)</li>
   <li>Amethys Cutter</li>
   <li>Amethyst Ingot (Is crafted with 8 pure amethyst and 1 cooper ingot)</li>
-  <li>Amethyst Tool Pack (Sword, axe, picaxe, shovel and hoe)</li>
+  <li>Amethyst Tool Pack (Sword, axe, picaxe, shovel, hoe and amethyst armor)</li>
+  <li>You can check the updates on: [Updates](https://www.curseforge.com/minecraft/mc-mods/amethyst-tool-kit/files)</li>
 </ul>
 
 ## FEATURES ON DEVELOPMENT
 <ul>
   <li>Translation of the mod to other languages</li>
   <li>New weapons</li>
-  <li>New amethyst armor</li>
-  <li>Improvement of textures</li>
 </ul>
+
+## DOWNLOAD
+[Download Amethys Tool Kit 1.1.4](https://github.com/aaronrojas32/amethyst_minecraft_mod/blob/main/AmethystTools_1.1.4.jar)
