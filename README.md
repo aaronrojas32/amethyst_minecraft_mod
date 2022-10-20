@@ -25,4 +25,4 @@ The mod will be published soon in the page of Mcreator and on the Forge page
 </ul>
 
 ## DOWNLOAD
-[Download Amethys Tool Kit 1.1.4](/aaronrojas32/amethyst_minecraft_mod/raw/main/AmethystTools_1.1.4.jar)
+[Download Amethys Tool Kit 1.1.4](https://github.com/aaronrojas32/amethyst_minecraft_mod/raw/main/AmethystTools_1.1.4.jar)
