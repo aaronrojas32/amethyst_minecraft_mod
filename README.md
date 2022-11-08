@@ -2,7 +2,7 @@
 This is a Minecraft Mod that adds more uses for the amethyst.
 
 ## COMPATIBILITIES
-For now the mod is only compatible with the version 1.18.2 of Minecraft Forge.<br/>(Compatibility with new versions coming soon).
+For now the mod is only compatible with the version 1.18.2 and 1.19.2 of Minecraft Forge.<br/>(The mod for 1.19.2 Forge is still on beta version.)
 
 ## IMPORTANT INFORMATION
 This mod have been created whith mcreator https://mcreator.net/ <br/>
