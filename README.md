@@ -25,5 +25,5 @@ The mod will be published soon in the page of Mcreator and on the Forge page
 </ul>
 
 ## DOWNLOAD
-[Download Amethyst Tool Kit 1.1.4 Forge 1.18.2](https://github.com/aaronrojas32/amethyst_minecraft_mod/raw/main/AmethystTools_1.1.4.jar)
+[Download Amethyst Tool Kit 1.1.4 Forge 1.18.2](https://github.com/aaronrojas32/amethyst_minecraft_mod/raw/main/AmethystTools_1.1.4_1.18.2.jar)</br>
 [Dowload Amethyst Tool Kit 1.0.0-beta Forge 1.19.2](https://github.com/aaronrojas32/amethyst_minecraft_mod/raw/v1.0.0-beta/AmethystTools_1.0.0_beta_1.19.2.jar)
